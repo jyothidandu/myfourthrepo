@@ -18,3 +18,4 @@ p {
   line-height: 1.6; /* Increases line spacing for readability */
   text-align: justify; /* Justifies the text */
 }
+added
